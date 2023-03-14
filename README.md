@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**V1n1G4m4/V1n1G4m4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi! I'm Vinicius Gama 
 
-Here are some ideas to get you started:
+## Social Medias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v1n1_g4m4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinigama/)
+
+## Stats:
+
+![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=V1n1G4m4&show_icons=true&theme=tokyonight)
+
+## Skills:
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
