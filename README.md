@@ -13,10 +13,11 @@
 ## Skills:
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="sql" src="https://img.shields.io/github/followers/:user?logo=HTML5" />
-  <img align="center" alt="sql" src="https://img.shields.io/github/followers/:user?logo=CCS3" />
-  <img align="center" alt="sql" src="https://img.shields.io/github/followers/:user?logo=JavaScript" />
-  <img align="center" alt="sql" src="https://img.shields.io/github/followers/:user?logo=Bootstrap" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-black?logo=HTML5">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?logo=CSS3&logoColor=1572B6">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?logo=JavaScript">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-black?logo=Bootstrap">
+
+
 
 
