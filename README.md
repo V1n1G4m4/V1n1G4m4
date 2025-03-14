@@ -14,6 +14,9 @@
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  
+  <img align="center" alt="sql" src="https://img.shields.io/github/followers/:user?logo=HTML5" />
+  <img align="center" alt="sql" src="https://img.shields.io/github/followers/:user?logo=CCS3" />
+  <img align="center" alt="sql" src="https://img.shields.io/github/followers/:user?logo=JavaScript" />
+  <img align="center" alt="sql" src="https://img.shields.io/github/followers/:user?logo=Bootstrap" />
 
 
